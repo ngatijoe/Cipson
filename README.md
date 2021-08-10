@@ -1,6 +1,6 @@
 
 
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -660,7 +660,7 @@ window.onload = () => {
             
             <div class="home-screen-header-container">
                 <div class="header-text-container">
-                    cipson
+                  member
                 </div>
                 <div class="search-bar-container">
                    <a href=''><img src="https://dl.dropbox.com/s/zkpyvjxtctqio6a/search.svg?dl=0" alt="search bar"></a>
